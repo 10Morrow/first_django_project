@@ -1,1 +1,1 @@
-i start educate dgango framework
+i start educate django framework
